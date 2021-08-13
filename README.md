@@ -7,4 +7,11 @@
 الاداه للحمايه لديها كلمه سر ولازم اشترك في قناتنا على
 التليجرام لتحصل على كلمه اليوزر نيم والباسورد
 
+# شرح التثبيت لاداه
+pkg install git
+pkg install python3 -y
 
+git clone https://github.com/OmarStyle/Omar_Style.git
+
+cd Omar_Style
+python3 Omar_Style
